@@ -1,0 +1,1 @@
+export const server = 'https://bobsburgers-api.herokuapp.com'
